@@ -7,10 +7,16 @@ group :development do
   gem 'rspec-rails'
   gem 'guard-spork'
   gem 'spork'
+  gem 'autotest-rails'
+  gem 'autotest-fsevent'
+  gem 'autotest-growl'
 end
 
 group :test do
   gem 'rspec-rails'
   gem 'guard-spork'
   gem 'spork'
+  gem 'autotest-rails'
+  gem 'autotest-fsevent'
+  gem 'autotest-growl'
 end
