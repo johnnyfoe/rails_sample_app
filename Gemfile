@@ -10,6 +10,7 @@ group :development do
   gem 'autotest-rails'
   gem 'autotest-fsevent'
   gem 'autotest-growl'
+  gem 'webrat'
 end
 
 group :test do
@@ -19,4 +20,5 @@ group :test do
   gem 'autotest-rails'
   gem 'autotest-fsevent'
   gem 'autotest-growl'
+  gem 'webrat'
 end
